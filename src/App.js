@@ -7,12 +7,12 @@ import Hero from './components/Hero';
 import Testimonials from './components/Testimonials';
 import FAQ from './components/Faq';
 import Footer from './components/Footer';
-
 // import './App.css';
 
 function App() {
   useEffect(() => {
-    document.title = 'Revs-Store.com | Tempat Jual Netflix Murah Terpercaya';
+    document.title = 'Tempat Jual Netflix Murah Terpercaya - REVS STORE';
+    document.description  = 'Temukan berbagai paket Netflix yang tersedia di situs kami. Dapatkan harga terbaik dan nikmati streaming film dan acara TV terbaik di dunia hanya dengan beberapa klik saja.'
   }, []);
   return (
     <div>

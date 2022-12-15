@@ -53,9 +53,11 @@
 @media screen and (max-width:940px) {
     .header {
         max-width: 100%;
+        background-color: transparent;
+    }
+    .header-bg {
         background-color: #222831;
     }
-
     .header .navbar {
         max-width: 100%;
     }

@@ -5,13 +5,13 @@ import FAQ from "./faqpage";
 export default function Faq() {
     const [faqs, setFaqs] = useState([
       {
-        question: "Apakah akun yang tersedia di sini sudah terverifikasi?",
+        question: "Apakah akun yang tersedia di sini boleh di ganti email atau passwordnya?",
         answer:
-          "Ya, semua akun yang tersedia di sini sudah terverifikasi dan siap digunakan.",
+          "Tidak, semua akun yang tersedia di sini tidak boleh di ganti email atau passwordnya, apabila di ganti kami tidak akan bertanggung jawab apabila akunnya terkena masalah.",
         open: true
       },
       {
-        question: "    Berapa harga akun yang tersedia di sini?",
+        question: "Berapa harga akun yang tersedia di sini?",
         answer:
           "Harga akun yang tersedia di sini bervariasi tergantung pada jenis akun yang Anda beli. Anda dapat mengecek harga akun yang tersedia di halaman website kami.",
         open: false

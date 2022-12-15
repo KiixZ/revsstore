@@ -57,7 +57,7 @@ const Pricing = () => {
           </div>
           <div>
             <a
-              href="ttps://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
+              href="https://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
               className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-green-500 hover:bg-green-400 focus:shadow-outline focus:outline-none"
             >
               <FaWhatsapp/>
@@ -88,7 +88,7 @@ const Pricing = () => {
           </div>
           <div>
             <a
-              href="ttps://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
+              href="https://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
               className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-green-500 hover:bg-green-400 focus:shadow-outline focus:outline-none"
             >
               <FaWhatsapp/>
@@ -119,7 +119,7 @@ const Pricing = () => {
           </div>
           <div>
             <a
-              href="ttps://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
+              href="https://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
               className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-green-500 hover:bg-green-400 focus:shadow-outline focus:outline-none"
             >
               <FaWhatsapp/>
@@ -150,7 +150,7 @@ const Pricing = () => {
           </div>
           <div>
             <a
-              href="ttps://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
+              href="https://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
               className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-green-500 hover:bg-green-400 focus:shadow-outline focus:outline-none"
             >
               <FaWhatsapp/>
@@ -181,7 +181,7 @@ const Pricing = () => {
           </div>
           <div>
             <a
-              href="ttps://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
+              href="https://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
               className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-green-500 hover:bg-green-400 focus:shadow-outline focus:outline-none"
             >
               <FaWhatsapp/>
@@ -212,14 +212,14 @@ const Pricing = () => {
           </div>
           <div>
             <a
-              href="ttps://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
+              href="https://api.whatsapp.com/send/?phone=6282112439632&text=Hai,%20Saya%20ingin%20membeli%20netflix"
               className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-green-500 hover:bg-green-400 focus:shadow-outline focus:outline-none"
             >
               <FaWhatsapp/>
               PESAN SEKARANG
             </a>
             <p className="max-w-xs mt-6 text-xs text-gray-600 sm:text-sm sm:text-center sm:max-w-sm sm:mx-auto">
-            NOTE : Akun ID tidak menggunakan VPN untuk menonton netflix.
+            NOTE : DILARANG MENGGANTI EMAIL MAUPUN PASSWORD, JIKA DI GANTI MAKA APABILA AKUN TERSEBUT BERMASALAH KAMI TIDAK DAPAT MEMBANTUNYA.
             </p>
           </div>
         </div>

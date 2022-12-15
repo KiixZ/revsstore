@@ -15,7 +15,7 @@ const About = () => {
                     <p>Berminat Membeli? Hubungi Admin WA Kami</p>
                     <div>
             <a
-              href="https://api.whatsapp.com/send?phone=682112439632&text=Halo, Saya ingin membeli akun netflix shared non garansi"
+              href="https://api.whatsapp.com/send?phone=6282112439632&text=Halo, Saya ingin membeli akun netflix shared non garansi"
               className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-green-600 hover:bg-green-500 focus:shadow-outline focus:outline-none"
             >
               <FaWhatsapp/>
